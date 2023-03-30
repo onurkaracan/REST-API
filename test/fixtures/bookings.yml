@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  house: one
+  name: MyString
+  from: 2023-03-30
+  to: 2023-03-30
+
+two:
+  house: two
+  name: MyString
+  from: 2023-03-30
+  to: 2023-03-30
