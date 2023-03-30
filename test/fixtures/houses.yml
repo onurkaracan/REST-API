@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  max_guests: 1
+  amenities: MyText
+  available_from: 2023-03-30
+  available_to: 2023-03-30
+
+two:
+  name: MyString
+  description: MyString
+  max_guests: 1
+  amenities: MyText
+  available_from: 2023-03-30
+  available_to: 2023-03-30
